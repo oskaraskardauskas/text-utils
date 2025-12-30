@@ -1,0 +1,2 @@
+This is a simple example file.
+It contains a few words.
